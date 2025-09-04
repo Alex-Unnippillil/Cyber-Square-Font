@@ -8,7 +8,7 @@ It covers Basic Latin (ASCII) and maps lowercase to smallcaps. The design is mon
 - Family: Novasquare GF
 - Style: Regular (400)
 - Category: Display / Monospace
-- Designer: ChatGPT
+-Designer: Alex Unnippillil 
 - Date: 2025-09-04
 
 ## Preview
