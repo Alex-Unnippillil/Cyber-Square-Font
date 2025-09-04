@@ -1,4 +1,5 @@
 # Novasquare GF
+<img width="1600" height="900" alt="NovasquareGF-specimen" src="https://github.com/user-attachments/assets/5d78b47d-83d5-462e-b105-0afc0eb4cf2a" />
 
 Novasquare GF is an original, grid-based pixel display font designed and generated programmatically.
 It covers Basic Latin (ASCII) and maps lowercase to smallcaps. The design is monospaced.
