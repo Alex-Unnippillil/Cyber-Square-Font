@@ -1,6 +1,7 @@
 # Cyber Square: open source display font
 
-![Cyber Square cover](./assets/specimen/cyber-square-cover.png)
+<img width="1600" height="900" alt="cyber-square-cover" src="https://github.com/user-attachments/assets/6384f73d-112a-45fd-a646-b5ebdbd746b1" />
+
 
 <p align="center">
   <a href="#license"><img alt="License: OFL-1.1" src="https://img.shields.io/badge/License-OFL--1.1-blue.svg"></a>
@@ -39,16 +40,8 @@ A geometric, cyberpunk square typeface designed for UI chrome, headings, logos, 
 
 > Replace the placeholders below with specimen images located in `assets/specimen/`. The file paths already match the links.
 
-<table>
-<tr>
-<td align="center"><img alt="Cyber Square pangrams" src="./assets/specimen/cyber-square-pangram.png"><br><sub>Pangrams and sizes</sub></td>
-<td align="center"><img alt="Cyber Square character set" src="./assets/specimen/cyber-square-charset.png"><br><sub>Character set and accents</sub></td>
-</tr>
-<tr>
-<td align="center"><img alt="Cyber Square UI examples" src="./assets/specimen/cyber-square-ui.png"><br><sub>Badges, labels, and UI</sub></td>
-<td align="center"><img alt="Cyber Square numerals" src="./assets/specimen/cyber-square-numerals.png"><br><sub>Numerals and punctuation</sub></td>
-</tr>
-</table>
+<img width="1600" height="900" alt="cyber-square" src="https://github.com/user-attachments/assets/3de96aeb-633e-4ebb-a2dc-7179b403638c" />
+
 
 ---
 
