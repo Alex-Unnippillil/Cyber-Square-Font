@@ -1,22 +1,21 @@
-# This is an example METADATA.pb for a static family
-family: "Novasquare GF"
-designer: "ChatGPT"
-category: "DISPLAY"
-date_added: "2025-09-04"
+name: "Cyber Square"
+designer: "Alex Unnippillil"
 license: "OFL"
-visibility: "Sandbox"
-minisite_url: ""
-size: 0
-stroke: "Sans Serif"
-classifications: "Display"
-subsets: "latin"
-ttf_autohint: false
-
+category: "DISPLAY"
+date_added: "2025-09-06"
 fonts {
-  name: "Novasquare GF"
+  name: "Cyber Square"
   style: "normal"
   weight: 400
-  filename: "NovasquareGF-Regular.ttf"
-  post_script_name: "NovasquareGF-Regular"
-  full_name: "Novasquare GF Regular"
+  filename: "CyberSquare-Regular.ttf"
+  post_script_name: "CyberSquare-Regular"
+  full_name: "Cyber Square Regular"
+  copyright: "Copyright 2025 The Cyber Square Project Authors (https://github.com/AlexUnnippillil/Cyber-Square)"
+}
+subsets: "latin"
+subsets: "menu"
+primary_script: "Latn"
+source {
+  repository_url: "https://github.com/AlexUnnippillil/Cyber-Square"
+  branch: "main"
 }
