@@ -10,12 +10,12 @@ fonts {
   filename: "CyberSquare-Regular.ttf"
   post_script_name: "CyberSquare-Regular"
   full_name: "Cyber Square Regular"
-  copyright: "Copyright 2025 The Cyber Square Project Authors (https://github.com/AlexUnnippillil/Cyber-Square)"
+  copyright: "Copyright 2025 The Cyber Square Project Authors (https://github.com/Alex-Unnippillil/Cyber-Square-Fonte)"
 }
 subsets: "latin"
 subsets: "menu"
 primary_script: "Latn"
 source {
-  repository_url: "https://github.com/AlexUnnippillil/Cyber-Square"
+  repository_url: "https://github.com/Alex-Unnippillil/Cyber-Square-Font"
   branch: "main"
 }
