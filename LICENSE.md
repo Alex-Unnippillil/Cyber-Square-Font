@@ -1,4 +1,4 @@
-Copyright 2025 The Cyber Square Project Authors (https://github.com/AlexUnnippillil/Cyber-Square)
+Copyright 2025 The Cyber Square Project Authors (https://github.com/Alex-Unnippillil/Cyber-Square-Font/)
 
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 
